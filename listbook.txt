@@ -1,0 +1,31 @@
+The Other Einstein;Marie Benedict;Sourcebooks Landmark;Biography;2016;304
+Sunshine Girl: An Unexpected Life;Julianna Margulies;Ballantine Books;Biography;2021;237
+Beautiful Things: A Memoir;Hunter Biden;Gallery Books;Biography;2021;272
+Big Shot;Mindy Kaling;Amazon Original Stories;Biography;2020;35
+The Violinist of Auschwitz;Ellie Midwood;Bookouture;Biography;2020;356
+The Mystery of the Meanest Teacher;Ryan North;DC Comic;Comic;2021;144
+Goosebumps: Secrets of the Swamp;Marieke Nijkamp;IDW Publishing;Comic;2021;120
+Villainous;Stonie Williams;Mad Cave Studios;Comic;2021;112
+Riverdale: The Ties That Bind;Micol Ostow;Archie Blue Ribbon;Comic;2021;144
+The Secret to Superhuman Strength;Alison Bechdel;Mariner Books;Comic;2021;240
+Oxford Advanced Learner's Dictionary;Anthony Paul Cowie;Oxford University Press;Dictionary;1974;1056
+The Merriam-Webster Dictionary;Merriam-Webster;Merriam-Webster Publishing;Dictionary;2004;939
+The New Oxford American Dictionary;Erin McKean;Oxford University Press Inc;Dictionary;2008;945077
+The Oxford Classical Dictionary;Simon Hornblower;Oxford University Press;Dictionary;2003;400
+Shakespeare's Words: A Glossary and Language Companion;David Crystal;Penguin Publishing;Dictionary;2004;676
+A Study in Scarlet Women;Sherry Thomas;Berkley Books;Mystery;2016;323
+A Dark and Secret Place;Jen Williams;Crooked Lane Books;Mystery;2021;304
+The Things We Don't See;Savannah Brown;Penguin Readers;Mystery;2021;384
+Gumshoe in the Dark;Rob Leininger;Oceanview Publishing;Mystery;2021;308
+The Wedding Night;Harriet Walker;Ballantine Books;Mystery;2021;336
+The Wisteria Society of Lady Scoundrels;India Holton;Berkley Books;Romance;2021;336
+Seven Days in June;Tia Williams;Grand Central Publishing;Romance;2021;336
+Girls at the Edge of the World;Laura Brooke Robson;Dial Books;Romance;2021;416
+Simone Breaks All the Rules;Debbie Rigaud;Scholastic Press;Romance;2021;320
+People We Meet on Vacation;Emily Henry;Berkley Books;Romance;2021;364
+Make Your Own Neural Network: An In-depth Visual Introduction For Beginners;Michael Taylor;Windmill Media;Reference;2017;316
+From Topic to Thesis: A Guide to Theological Research;Michael Kibbe;IVP Academic;Reference;2015;153
+Python Data Science Handbook: Tools and Techniques for Developers;Jake Vanderplas;O'Reilly Media;Reference;2016;500
+Hands-On Machine Learning with Scikit-Learn and TensorFlow;Aurelien Geron;O'Reilly Media;Reference;2017;450
+The Mythology Book: Big Ideas Simply Explained;Shulamit Ambalu;Dorling Kindersley Publishing;Reference;2018;352
+
